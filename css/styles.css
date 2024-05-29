@@ -225,11 +225,10 @@ footer{
 
 }
 .div1{
-	vertical-align: middle;
-	position: absolute;
+		position: absolute;
 	height: 200px;
 	width: 500px;
-display: flex;
+display: inline flex;
 flex-direction: row;
 justify-content: center;
 justify-content: space-between;
@@ -245,4 +244,17 @@ dd{
 	margin-bottom: 15px;
 	color: #818687;
 }
-
+span{
+	margin-left: 400px;
+}
+.wtf {
+display: inline-grid;
+margin-top: 30px;
+ margin-left: 330px;
+ color: #ffffff;
+}
+.lol{
+	display: inline-grid;
+	margin-left: 300px;
+	margin-top: 40px;
+ }
